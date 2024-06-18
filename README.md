@@ -22,8 +22,8 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
+<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Raytracer/blob/main/screenshots/2.png" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Raytracer/blob/main/screenshots/1.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Raytracer/blob/main/screenshots/2.png' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Raytracer/blob/main/screenshots/3.png" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Raytracer/blob/main/screenshots/4.png" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Raytracer/blob/main/screenshots/NoTexture.png" alt='image' width='800'/></a> </div>
