@@ -79,7 +79,7 @@ SOFTWARE.
 
 ## :handshake: Contact
 
-Steven - [@twitter](https://x.com/AVS_Clipped) - [@linkedin](linkedin.com/in/steven-deffontaine/) - steven.deffontaine@epitech.eu <br></br>
-Lucka - [@linkedin](linkedin.com/in/lucka-valtriani-8a8551258/) - lucka.valtriani@epitech.eu
+Steven - [@twitter](https://x.com/AVS_Clipped) - [@linkedin](https://www.linkedin.com/in/steven-deffontaine/) - steven.deffontaine@epitech.eu <br></br>
+Lucka - [@linkedin](https://www.linkedin.com/in/lucka-valtriani-8a8551258/) - lucka.valtriani@epitech.eu
 
 Project Link: [https://github.com/StevenDeff/Epitech-Raytracer](https://github.com/StevenDeff/Epitech-Raytracer)
