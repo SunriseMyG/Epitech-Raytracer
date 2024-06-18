@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://github.com/StevenDeff/Epitech-Raytracer/blob/main/screenshots/logo.png alt="logo" width=500 height=500 />
+<img src=https://github.com/StevenDeff/Epitech-Raytracer/blob/main/screenshots/logo.png alt="logo" width=150 height=150 />
 
 <h1>Raytracer</h1>
 <p>Management of light flux and intersection of these lights with objects on a 3D sphere using C++ (Raytracing)</p>
